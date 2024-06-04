@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: edu2.innotech.Main
+Class-Path: opentest4j-1.2.0.jar junit-jupiter-engine-5.8.2.jar junit-ju
+ piter-api-5.8.2.jar apiguardian-api-1.1.2.jar lombok-1.18.32.jar junit-
+ jupiter-5.8.2.jar junit-platform-commons-1.8.2.jar junit-jupiter-params
+ -5.8.2.jar junit-platform-engine-1.8.2.jar
+
